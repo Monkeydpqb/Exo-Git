@@ -64,6 +64,24 @@ p {
 /* FIN CODE Florencia */
 /* ################ */
 
+/* DEBUT CODE PABLO*/
+/* ################ */
+#Pablo h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #1081a4;
+  font-size: xx-large;
+  text-align: left;
+}
+#Pablo p {
+  color: rgb(0, 0, 0);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+/* ################ */
+/* FIN CODE PABLO */
+/* ################ */
+
 /* Début code Olivier */
 .card-olivier {
   width: 350px;
